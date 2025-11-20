@@ -25,7 +25,7 @@
 ```javascript
 const ashfak = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
+    code: ["JavaScript", "TypeScript", "Python", "React"],
     askMeAbout: ["web dev", "tech", "app dev", "open source"],
     technologies: {
         frontEnd: {
