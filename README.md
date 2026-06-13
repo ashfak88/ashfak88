@@ -34,7 +34,7 @@ const ashfak = {
         },
         backEnd: {
            
-            python: ["Django", "FastAPI"],
+            python: ["Node.js", "Express"],
             
         },
         databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
