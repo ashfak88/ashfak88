@@ -29,12 +29,12 @@ const ashfak = {
     askMeAbout: ["web dev", "tech", "app dev", "open source"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js", "Vue.js"],
+            js: ["React", "Next.js", "typscript" , "zustand"],
             css: ["Tailwind", "Bootstrap", "Material-UI"]
         },
         backEnd: {
            
-            python: ["Node.js", "Express"],
+            js: ["Node.js", "Express" , "socket.io" , "Redis" , "WebRTC"],
             
         },
         databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
